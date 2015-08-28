@@ -24,7 +24,16 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### General Questions:
 
-* What did you learn yesterday/this week?
+##### What did you learn yesterday/this week?
+I learned about the peculiarities of how JavaScript handles passing arguments
+to functions. Specifically, that primitive values are passed by value, but
+complex objects are actually *not* passed by reference, at least not in the
+sense C++ pointers and references are. They are also passed by value, but the
+value is a reference. It's quite counter intuitive but after reading a few good
+articles ([1](http://docstore.mik.ua/orelly/webprog/jscript/ch11_02.htm),
+[2](http://stackoverflow.com/a/5314911/447661)) and some experimenting I now
+understand how it works.
+
 * What excites or interests you about coding?
 * What is a recent technical challenge you experienced and how did you solve it?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
