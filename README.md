@@ -34,7 +34,11 @@ articles ([1](http://docstore.mik.ua/orelly/webprog/jscript/ch11_02.htm),
 [2](http://stackoverflow.com/a/5314911/447661)) and some experimenting I now
 understand how it works.
 
-* What excites or interests you about coding?
+##### What excites or interests you about coding?
+Coding is exciting because it's challengin, and it really tests your
+problem-solving abilities; but it's also rewarding - you can build stuff that is
+really useful, and don't have to wait years util it's ready.
+
 * What is a recent technical challenge you experienced and how did you solve it?
 * What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
 * Talk about your preferred development environment.
